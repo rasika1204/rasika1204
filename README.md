@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **rasika1204/rasika1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1>Hi, I'm Rasika! </h1>
 
